@@ -1,0 +1,20 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe game with websockets",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saqibnajm/websocket-tic-tac-toe.git"
+  },
+  "author": "Saqib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saqibnajm/websocket-tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/saqibnajm/websocket-tic-tac-toe#readme"
+}
