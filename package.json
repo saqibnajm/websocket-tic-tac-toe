@@ -13,6 +13,9 @@
   },
   "author": "Saqib",
   "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.30"
+  },
   "bugs": {
     "url": "https://github.com/saqibnajm/websocket-tic-tac-toe/issues"
   },
