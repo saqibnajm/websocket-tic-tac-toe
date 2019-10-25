@@ -1,7 +1,7 @@
 /**
 * Parameters
 */
-var webSocketsServerPort = 34263; // Adapt to the listening port number you want to use
+var webSocketsServerPort = process.env.YOUR_PORT || process.env.PORT || 34263; // Adapt to the listening port number you want to use
 /**
 * Global variables
 */
